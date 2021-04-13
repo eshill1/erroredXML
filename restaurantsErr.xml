@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<restaurants>
+	<restaurant>
+		
+		<contact>
+			<phone>480-279-0824</phone>
+			<email>"MediaRelations@Applebees.com"</email>
+		</contact>
+		<website facebook="https://www.facebook.com/applebees/">
+			"https://www.applebees.com/en"
+		</website>
+	</restaurant>
+	
+	<restaurant delivery="Y">
+		<name>Texas Roadhouse</name>
+		<contact>
+			<phone>480-988-1414</phone>
+			<email>"txrd@texasroadhouse.com"</email>
+		</contact>
+		<website>"https://www.texasroadhouse.com/"</website>
+	</restaurant>
+	
+	<restaurant delivery="N">
+		<name>Chili's Grill &amp; Bar</name>
+		<contact>
+			<phone>480-807-6003</phone>
+			<email>"chilis@chilis.com"</email>
+		</contact>
+		<website facebook="https://www.facebook.com/Chilis/">
+			"https://www.chilis.com/"
+		</website>
+	</restaurant>
+	
+	<restaurant delivery="Y">
+		<name>The Cheesecake Factory</name>
+		<contact>
+			<phone>480-641-7300</phone>
+			<email>"privacyofficer@thecheesecakefactory.com"</email>
+		</contact>
+		<website>"https://www.thecheesecakefactory.com/?gclsrc=aw.ds"</website>
+	</restaurant>
+	
+	<restaurant delivery="N">
+		<name>Lolo's Chicken &amp; Waffles</name>
+		<contact>
+			<phone>480-207-6173</phone>
+			<email>"lolo@loloschickennwaffles.com"</email>
+		</contact>
+		<website facebook="https://www.facebook.com/loloschickenandwafflesarizona/">
+			"https://loloschickenandwaffles.com/"
+		</website>
+	</restaurant>
+</restaurants>
